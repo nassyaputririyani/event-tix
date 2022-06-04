@@ -5,9 +5,9 @@
 /Users/naufalfawwaz/Documents/Programming Stuff/Java/event_tix/src/main/java/com/andriawan/event_tix/components/home/HomePage.java
 /Users/naufalfawwaz/Documents/Programming Stuff/Java/event_tix/src/main/java/com/andriawan/event_tix/components/Menu.java
 /Users/naufalfawwaz/Documents/Programming Stuff/Java/event_tix/src/main/java/com/andriawan/event_tix/models/Menu.java
+/Users/naufalfawwaz/Documents/Programming Stuff/Java/event_tix/src/main/java/com/andriawan/event_tix/components/repository/EventRepository.java
 /Users/naufalfawwaz/Documents/Programming Stuff/Java/event_tix/src/main/java/com/andriawan/event_tix/events/EventMenuSelected.java
 /Users/naufalfawwaz/Documents/Programming Stuff/Java/event_tix/src/main/java/com/andriawan/event_tix/components/MenuItem.java
-/Users/naufalfawwaz/Documents/Programming Stuff/Java/event_tix/src/main/java/com/andriawan/event_tix/components/home/HomeRepository.java
 /Users/naufalfawwaz/Documents/Programming Stuff/Java/event_tix/src/main/java/com/andriawan/event_tix/components/home/form_1/Form1.java
 /Users/naufalfawwaz/Documents/Programming Stuff/Java/event_tix/src/main/java/com/andriawan/event_tix/pages/SignIn.java
 /Users/naufalfawwaz/Documents/Programming Stuff/Java/event_tix/src/main/java/com/andriawan/event_tix/components/ListMenu.java

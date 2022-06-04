@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.andriawan.event_tix.components.home;
+package com.andriawan.event_tix.repository;
 
 import com.andriawan.event_tix.data.DBConn;
 import com.andriawan.event_tix.models.Event;
@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
  *
  * @author naufalfawwaz
  */
-public class HomeRepository extends DBConn {
+public class EventRepository extends DBConn {
     
     public List<Event> getListEvent() {
         try {
@@ -40,7 +40,7 @@ public class HomeRepository extends DBConn {
             
             stmt.close();
             resultSet.close();
-            
+            connection.close();
             return list;
         } catch (SQLException e) {
             JOptionPane.showMessageDialog(null, "Connection Failed " + e.getMessage());

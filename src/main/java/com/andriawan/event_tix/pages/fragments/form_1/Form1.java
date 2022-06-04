@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.andriawan.event_tix.components.home.form_1;
+package com.andriawan.event_tix.pages.fragments.form_1;
 
 /**
  *
